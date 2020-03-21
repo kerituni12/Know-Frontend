@@ -1,0 +1,1 @@
+Chú ý đến display block khi padding, or width heigth  không như ý muốn 

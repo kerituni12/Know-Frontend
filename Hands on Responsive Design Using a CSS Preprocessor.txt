@@ -1,0 +1,6 @@
+Koala
+don vi em
+sass
+mobile first design
+% -> khong ket xuat thanh css
+Ki thuat dat span -> hide text on small
